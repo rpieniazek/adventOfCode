@@ -13,18 +13,16 @@ fun main(args: Array<String>) {
         }
     }
     var sum = 0;
-    var found = false;
     do {
         changes.forEach {change ->
             sum += change
             if(!frequences.add(sum)){
-                found = true
                 println(sum)
                 return
             }
         }
     }
-    while(!found)
+    while(true)
 
 
 }
