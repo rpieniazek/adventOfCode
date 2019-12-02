@@ -3,27 +3,17 @@
   <component name="issues">
     <option name="index">
       <map>
-        <entry key="$PROJECT_DIR$/src/Day1.kt">
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.41/785575d6b699a02527a4ad16f0972fa2c1ee583f/kotlin-stdlib-1.3.41-sources.jar!/kotlin/io/FileReadWrite.kt">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/MapTest.java">
+        <entry key="$PROJECT_DIR$/src/main/java/Day2.java">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/java/MapTest.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/kotlin/2018/day1/day1Task2.kt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/src/main/kotlin/2019/day1/Day1Task1.kt">
+        <entry key="$PROJECT_DIR$/src/main/java/Day2.kt">
           <value>
             <set />
           </value>
@@ -33,32 +23,12 @@
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/kotlin/2019/day1/input.txt">
+        <entry key="$PROJECT_DIR$/src/main/kotlin/2019/day2/Day2Task1.kt">
           <value>
             <set />
           </value>
         </entry>
-        <entry key="$PROJECT_DIR$/src/main/kotlin/2019/day1/testinput.txt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../dgc-core/dgc-search/dgc-search-elastic/src/test/day1.txt">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../dgc-core/dgc-search/dgc-search-elastic/src/test/java/com/collibra/dgc/search/Day1.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../untitled/src/main/java/Day1.java">
-          <value>
-            <set />
-          </value>
-        </entry>
-        <entry key="$PROJECT_DIR$/../untitled/src/main/java/Day1.kt">
+        <entry key="$PROJECT_DIR$/src/main/kotlin/2019/day2/input.txt">
           <value>
             <set />
           </value>
