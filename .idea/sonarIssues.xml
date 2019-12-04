@@ -8,7 +8,17 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.3.41/8f361846168f853fb213b0ab02d193f02644548/kotlin-stdlib-common-1.3.41-sources.jar!/generated/_Strings.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.41/785575d6b699a02527a4ad16f0972fa2c1ee583f/kotlin-stdlib-1.3.41-sources.jar!/kotlin/io/FileReadWrite.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.3.41/785575d6b699a02527a4ad16f0972fa2c1ee583f/kotlin-stdlib-1.3.41-sources.jar!/kotlin/text/StringsJVM.kt">
           <value>
             <set />
           </value>
@@ -19,6 +29,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/java/Day2.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/GroupByTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/GroupByTest.kt">
           <value>
             <set />
           </value>
@@ -44,6 +64,96 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/main/kotlin/2019/day2/input.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/2019/day3/Day3Task1.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/2019/day3/input.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/2019/day3/inputtest1.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/kotlin/2019/day4/Day4.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dgc-core/.ansible/files/compose/.env">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dgc-core/dgc-importer/dgc-importer-rest/build/generated/src/main/java/com/collibra/dgcimporterrestclient/invoker/ApiClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dgc-core/dgc-search/dgc-search-rest/build/generated/src/main/java/com/collibra/dgcsearchrestclient/api/SearchApi.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dgc-core/dgc-search/dgc-search-rest/build/generated/src/main/java/com/collibra/dgcsearchrestclient/invoker/ApiClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dgc-core/dgc-search/dgc-search-rest/build/generated/src/main/java/com/collibra/dgcsearchrestclient/invoker/ParamExpander.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dgc-core/dgc-search/dgc-search-rest/build/generated/src/main/java/com/collibra/dgcsearchrestclient/invoker/auth/ApiKeyAuth.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dgc-core/dgc-selenium/gradle/dependency-locks/integrationTestCompileClasspath.lockfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dgc-core/dgc-selenium/gradle/dependency-locks/integrationTestRuntimeClasspath.lockfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../dgc-core/workflow-project/dgc-workflow-api/gradle/dependency-locks/compileOnly.lockfile">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../plan-weekly-diet/src/AddRecipeContainer/AddRecipeContainer.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../plan-weekly-diet/src/App.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../plan-weekly-diet/src/RecipeForm/RecipeForm.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../plan-weekly-diet/src/WeekContainer/WeekContainer.tsx">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="/fragment.kt">
           <value>
             <set />
           </value>
